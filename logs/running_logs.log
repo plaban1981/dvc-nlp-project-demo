@@ -1,0 +1,24 @@
+[2021-10-31 08:24:00,972: INFO: stage_00_template]: 
+********************
+[2021-10-31 08:24:00,972: INFO: stage_00_template]: >>>>> stage Template stage started <<<<<
+[2021-10-31 08:24:00,972: ERROR: stage_00_template]: main() got an unexpected keyword argument 'params_path'
+Traceback (most recent call last):
+  File "src/stage_00_template.py", line 28, in <module>
+    main(config_path=parsed_args.config, params_path=parsed_args.params)
+TypeError: main() got an unexpected keyword argument 'params_path'
+[2021-10-31 08:24:55,098: INFO: stage_00_template]: 
+********************
+[2021-10-31 08:24:55,098: INFO: stage_00_template]: >>>>> stage Template stage started <<<<<
+[2021-10-31 08:24:55,098: ERROR: stage_00_template]: main() got an unexpected keyword argument 'params_path'
+Traceback (most recent call last):
+  File "src/stage_00_template.py", line 28, in <module>
+    main(config_path=parsed_args.config, params_path=parsed_args.params)
+TypeError: main() got an unexpected keyword argument 'params_path'
+[2021-10-31 08:27:58,474: INFO: stage_00_template]: 
+********************
+[2021-10-31 08:27:58,474: INFO: stage_00_template]: >>>>> stage Template stage started <<<<<
+[2021-10-31 08:27:58,474: ERROR: stage_00_template]: main() got an unexpected keyword argument 'params_path'
+Traceback (most recent call last):
+  File "src/stage_00_template.py", line 29, in <module>
+    main(config_path=parsed_args.config, params_path=parsed_args.params)
+TypeError: main() got an unexpected keyword argument 'params_path'
